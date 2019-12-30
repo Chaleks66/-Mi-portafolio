@@ -1,4 +1,10 @@
 #hero { background-image:
      url("./assets/img/bg_hero.png");
     background-size: cover;
-padding-bottom: 50%;}
+padding-bottom: 40%
+;}
+
+#Miexperiencia {
+    font-family: "Roboto" sans-serif;
+}
+
